@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: f4ecbfc8837f1eb45a63738ced98a35b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Blood_Vessels
+    100002: //RootNode
+    100004: Circulatory_Arteries_Geo
+    100006: Circulatory_Bicuspid_Valve_Geo
+    100008: Circulatory_Heart_Arteries_Geo
+    100010: Circulatory_Heart_Geo
+    100012: Circulatory_Heart_Left_Atrium_Geo
+    100014: Circulatory_Heart_Right_Atrium_Geo
+    100016: Circulatory_Heart_Veins_Geo
+    100018: Circulatory_Lung_Arteries_Geo
+    100020: Circulatory_Lung_Veins_Geo
+    100022: Circulatory_SystemCirculatory_System
+    100024: Circulatory_Tricuspid_Valve_Geo
+    100026: Circulatory_Veins_Geo
+    100028: Heart
+    100030: Male_Circulatory_System_group
+    400000: Blood_Vessels
+    400002: //RootNode
+    400004: Circulatory_Arteries_Geo
+    400006: Circulatory_Bicuspid_Valve_Geo
+    400008: Circulatory_Heart_Arteries_Geo
+    400010: Circulatory_Heart_Geo
+    400012: Circulatory_Heart_Left_Atrium_Geo
+    400014: Circulatory_Heart_Right_Atrium_Geo
+    400016: Circulatory_Heart_Veins_Geo
+    400018: Circulatory_Lung_Arteries_Geo
+    400020: Circulatory_Lung_Veins_Geo
+    400022: Circulatory_SystemCirculatory_System
+    400024: Circulatory_Tricuspid_Valve_Geo
+    400026: Circulatory_Veins_Geo
+    400028: Heart
+    400030: Male_Circulatory_System_group
+    2100000: Male_Circulatory_Arteries_mat
+    2100002: Male_Circulatory_Veins_mat
+    2100004: Circulatory_Bicuspid_Valve_mat
+    2100006: Circulatory_Heart_mat
+    2100008: Circulatory_Heart_Left_Atrium_mat
+    2100010: Circulatory_Heart_Right_Atrium_mat
+    2300000: Circulatory_Arteries_Geo
+    2300002: Circulatory_Bicuspid_Valve_Geo
+    2300004: Circulatory_Heart_Arteries_Geo
+    2300006: Circulatory_Heart_Geo
+    2300008: Circulatory_Heart_Left_Atrium_Geo
+    2300010: Circulatory_Heart_Right_Atrium_Geo
+    2300012: Circulatory_Heart_Veins_Geo
+    2300014: Circulatory_Lung_Arteries_Geo
+    2300016: Circulatory_Lung_Veins_Geo
+    2300018: Circulatory_Tricuspid_Valve_Geo
+    2300020: Circulatory_Veins_Geo
+    3300000: Circulatory_Arteries_Geo
+    3300002: Circulatory_Bicuspid_Valve_Geo
+    3300004: Circulatory_Heart_Arteries_Geo
+    3300006: Circulatory_Heart_Geo
+    3300008: Circulatory_Heart_Left_Atrium_Geo
+    3300010: Circulatory_Heart_Right_Atrium_Geo
+    3300012: Circulatory_Heart_Veins_Geo
+    3300014: Circulatory_Lung_Arteries_Geo
+    3300016: Circulatory_Lung_Veins_Geo
+    3300018: Circulatory_Tricuspid_Valve_Geo
+    3300020: Circulatory_Veins_Geo
+    4300000: Circulatory_Arteries_Geo
+    4300002: Circulatory_Veins_Geo
+    4300004: Circulatory_Bicuspid_Valve_Geo
+    4300006: Circulatory_Heart_Arteries_Geo
+    4300008: Circulatory_Heart_Geo
+    4300010: Circulatory_Heart_Left_Atrium_Geo
+    4300012: Circulatory_Heart_Right_Atrium_Geo
+    4300014: Circulatory_Heart_Veins_Geo
+    4300016: Circulatory_Lung_Arteries_Geo
+    4300018: Circulatory_Lung_Veins_Geo
+    4300020: Circulatory_Tricuspid_Valve_Geo
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

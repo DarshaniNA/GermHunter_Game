@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: d31df18279c64ec42b1e6f3e61251ab5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Male_Female_Anatomy_Complete_V05_MAYA:Female_Anatomy_Pack_V05
+    100004: Male_Female_Anatomy_Complete_V05_MAYA:Female_Digestive_Bileduct_Geo
+    100006: Male_Female_Anatomy_Complete_V05_MAYA:Female_Digestive_Colon_Geo
+    100008: Male_Female_Anatomy_Complete_V05_MAYA:Female_Digestive_Endocrine
+    100010: Male_Female_Anatomy_Complete_V05_MAYA:Female_Digestive_Gall_Bladder_Geo
+    100012: Male_Female_Anatomy_Complete_V05_MAYA:Female_Digestive_group
+    100014: Male_Female_Anatomy_Complete_V05_MAYA:Female_Digestive_Liver_Geo
+    100016: Male_Female_Anatomy_Complete_V05_MAYA:Female_Digestive_Mouth
+    100018: Male_Female_Anatomy_Complete_V05_MAYA:Female_Digestive_Mouth_Geo
+    100020: Male_Female_Anatomy_Complete_V05_MAYA:Female_Digestive_Organs
+    100022: Male_Female_Anatomy_Complete_V05_MAYA:Female_Digestive_Small_Intestine_Geo
+    100024: Male_Female_Anatomy_Complete_V05_MAYA:Female_Digestive_Small_Intestine_Geo
+      1
+    100026: Male_Female_Anatomy_Complete_V05_MAYA:Female_Digestive_Stomach_Geo
+    100028: Male_Female_Anatomy_Complete_V05_MAYA:Female_Digestive_System_V05_grp
+    100030: Male_Female_Anatomy_Complete_V05_MAYA:Female_Digestive_Tongue_Geo
+    100032: Male_Female_Anatomy_Complete_V05_MAYA:Female_Digestove_Falciform_Ligament_Geo
+    100034: Male_Female_Anatomy_Complete_V05_MAYA:Female_Endocrine_Pancreas_Geo
+    100036: Male_Female_Anatomy_Complete_V05_MAYA:transform1
+    100038: Male_Female_Anatomy_Complete_V05_MAYA:transform10
+    100040: Male_Female_Anatomy_Complete_V05_MAYA:transform2
+    100042: Male_Female_Anatomy_Complete_V05_MAYA:transform3
+    100044: Male_Female_Anatomy_Complete_V05_MAYA:transform4
+    100046: Male_Female_Anatomy_Complete_V05_MAYA:transform5
+    100048: Male_Female_Anatomy_Complete_V05_MAYA:transform6
+    100050: Male_Female_Anatomy_Complete_V05_MAYA:transform7
+    100052: Male_Female_Anatomy_Complete_V05_MAYA:transform8
+    100054: Male_Female_Anatomy_Complete_V05_MAYA:transform9
+    400000: //RootNode
+    400002: Male_Female_Anatomy_Complete_V05_MAYA:Female_Anatomy_Pack_V05
+    400004: Male_Female_Anatomy_Complete_V05_MAYA:Female_Digestive_Bileduct_Geo
+    400006: Male_Female_Anatomy_Complete_V05_MAYA:Female_Digestive_Colon_Geo
+    400008: Male_Female_Anatomy_Complete_V05_MAYA:Female_Digestive_Endocrine
+    400010: Male_Female_Anatomy_Complete_V05_MAYA:Female_Digestive_Gall_Bladder_Geo
+    400012: Male_Female_Anatomy_Complete_V05_MAYA:Female_Digestive_group
+    400014: Male_Female_Anatomy_Complete_V05_MAYA:Female_Digestive_Liver_Geo
+    400016: Male_Female_Anatomy_Complete_V05_MAYA:Female_Digestive_Mouth
+    400018: Male_Female_Anatomy_Complete_V05_MAYA:Female_Digestive_Mouth_Geo
+    400020: Male_Female_Anatomy_Complete_V05_MAYA:Female_Digestive_Organs
+    400022: Male_Female_Anatomy_Complete_V05_MAYA:Female_Digestive_Small_Intestine_Geo
+    400024: Male_Female_Anatomy_Complete_V05_MAYA:Female_Digestive_Small_Intestine_Geo
+      1
+    400026: Male_Female_Anatomy_Complete_V05_MAYA:Female_Digestive_Stomach_Geo
+    400028: Male_Female_Anatomy_Complete_V05_MAYA:Female_Digestive_System_V05_grp
+    400030: Male_Female_Anatomy_Complete_V05_MAYA:Female_Digestive_Tongue_Geo
+    400032: Male_Female_Anatomy_Complete_V05_MAYA:Female_Digestove_Falciform_Ligament_Geo
+    400034: Male_Female_Anatomy_Complete_V05_MAYA:Female_Endocrine_Pancreas_Geo
+    400036: Male_Female_Anatomy_Complete_V05_MAYA:transform1
+    400038: Male_Female_Anatomy_Complete_V05_MAYA:transform10
+    400040: Male_Female_Anatomy_Complete_V05_MAYA:transform2
+    400042: Male_Female_Anatomy_Complete_V05_MAYA:transform3
+    400044: Male_Female_Anatomy_Complete_V05_MAYA:transform4
+    400046: Male_Female_Anatomy_Complete_V05_MAYA:transform5
+    400048: Male_Female_Anatomy_Complete_V05_MAYA:transform6
+    400050: Male_Female_Anatomy_Complete_V05_MAYA:transform7
+    400052: Male_Female_Anatomy_Complete_V05_MAYA:transform8
+    400054: Male_Female_Anatomy_Complete_V05_MAYA:transform9
+    2100000: Male_Female_Anatomy_Complete_V05_MAYA_Female_Digestive_small_intestine_mat
+    2100002: Male_Female_Anatomy_Complete_V05_MAYA_Female_Digestive_stomach_mat
+    2100004: Male_Female_Anatomy_Complete_V05_MAYA_Female_Digestive_gall_bladder_mat
+    2100006: Male_Female_Anatomy_Complete_V05_MAYA_Female_Digestive_colon_mat
+    2100008: Male_Female_Anatomy_Complete_V05_MAYA_Female_Digestive_liver_mat
+    2100010: Male_Female_Anatomy_Complete_V05_MAYA_Female_Digestive_falciform_ligament_mat
+    2100012: Male_Female_Anatomy_Complete_V05_MAYA_Female_Digestive_bileduct_mat
+    2100014: Male_Female_Anatomy_Complete_V05_MAYA_Female_Digestive_mouth_mat_1
+    2100016: Male_Female_Anatomy_Complete_V05_MAYA_Female_pancreas_mat
+    2100018: Male_Female_Anatomy_Complete_V05_MAYA_Female_Digestive_tongue_mat
+    2300000: Male_Female_Anatomy_Complete_V05_MAYA:Female_Digestive_Small_Intestine_Geo
+    3300000: Male_Female_Anatomy_Complete_V05_MAYA:Female_Digestive_Small_Intestine_Geo
+    4300000: Male_Female_Anatomy_Complete_V05_MAYA:Female_Digestive_Small_Intestine_Geo
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<languages>
+
+	<language>
+    <Name>English</Name>
+    <button1>Play</button1>
+    <button2>Exit</button2>
+    <button3>Run</button3>
+    <button4>Log Out</button4>
+    <button5>Tutorial</button5>
+    <button6>How to Play</button6>
+    <button7>Settings</button7>
+    <button8>Leaderboard</button8>
+    <button9>Name</button9>
+    <button10>Game Score</button10>
+    <button11>Tutorial Score</button11>
+    <button12>Music</button12>
+    <button13>Sinhala</button13>
+    <button14>About</button14>
+    <button15>Sound Effect</button15>
+	</language>
+	
+	<language>
+    <Name>Sinhala</Name>
+    <button1>සෙල්ලම් කරන්න</button1>
+    <button2>පිටවීම</button2>
+    <button3>දුවන්න</button3>
+    <button4>පිටවීම</button4>
+    <button5>නිබන්ධන</button5>
+    <button6>කෙසේද</button6>
+    <button7>සැකසුම</button7>
+    <button8>ප්‍රමුඛ පුවරුව</button8>
+    <button9>නම</button9>
+    <button10>ක්‍රීඩා ලකුණු</button10>
+    <button11>නිබන්ධන ලකුණු</button11>
+    <button12>සංගීතය</button12>
+    <button13>සිංහල</button13>
+    <button14>අපි ගැන</button14>
+    <button15>ශබ්ද</button15>
+	</language>
+	
+</languages>

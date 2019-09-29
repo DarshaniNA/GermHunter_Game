@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 9e06365a29cf9574da2dfcb16cc2cc7b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Male_Circulatory_Urinary_Arteries_Geo
+    100002: Male_Circulatory_Urinary_Veins_Geo
+    100004: Male_Endocrine_Adrenal_Gland_Geo_Left
+    100006: Male_Endocrine_Adrenal_Gland_Geo_Right
+    100008: Male_Endocrine_Pancreas_Geo
+    100010: Male_Reproductive
+    100012: Male_Reproductive_Prostate_Geo
+    100014: Male_URE_group
+    100016: Male_Urinary
+    100018: Male_Urinary_Bladder_Geo
+    100020: Male_Urinary_Endocrine
+    100022: Male_Urinary_Kidney_Geo_Left
+    100024: Male_Urinary_Kidney_Geo_Right
+    100026: Male_Urinary_Ureter_Geo_Left
+    100028: Male_Urinary_Ureter_Geo_Right
+    100030: //RootNode
+    100032: Urinary_ReproductiveUrinary_Reproductive
+    400000: Male_Circulatory_Urinary_Arteries_Geo
+    400002: Male_Circulatory_Urinary_Veins_Geo
+    400004: Male_Endocrine_Adrenal_Gland_Geo_Left
+    400006: Male_Endocrine_Adrenal_Gland_Geo_Right
+    400008: Male_Endocrine_Pancreas_Geo
+    400010: Male_Reproductive
+    400012: Male_Reproductive_Prostate_Geo
+    400014: Male_URE_group
+    400016: Male_Urinary
+    400018: Male_Urinary_Bladder_Geo
+    400020: Male_Urinary_Endocrine
+    400022: Male_Urinary_Kidney_Geo_Left
+    400024: Male_Urinary_Kidney_Geo_Right
+    400026: Male_Urinary_Ureter_Geo_Left
+    400028: Male_Urinary_Ureter_Geo_Right
+    400030: //RootNode
+    400032: Urinary_ReproductiveUrinary_Reproductive
+    2100000: mat_Male_Circulatory_Urinary_Arteries_Geo
+    2100002: mat_Male_Circulatory_Urinary_Veins_Geo
+    2100004: Male_Urinary_Kidney_mat
+    2100006: Male_Endocrine_Adrenal_Gland_mat
+    2100008: Male_Urinary_Ureter_mat
+    2100010: Male_Urinary_Bladder_mat
+    2100012: Endocrine_Pancreas_mat
+    2100014: Male_Reproductive_Prostate_mat
+    2300000: Male_Circulatory_Urinary_Arteries_Geo
+    2300002: Male_Circulatory_Urinary_Veins_Geo
+    2300004: Male_Endocrine_Adrenal_Gland_Geo_Left
+    2300006: Male_Endocrine_Adrenal_Gland_Geo_Right
+    2300008: Male_Endocrine_Pancreas_Geo
+    2300010: Male_Reproductive_Prostate_Geo
+    2300012: Male_Urinary_Bladder_Geo
+    2300014: Male_Urinary_Kidney_Geo_Left
+    2300016: Male_Urinary_Kidney_Geo_Right
+    2300018: Male_Urinary_Ureter_Geo_Left
+    2300020: Male_Urinary_Ureter_Geo_Right
+    3300000: Male_Circulatory_Urinary_Arteries_Geo
+    3300002: Male_Circulatory_Urinary_Veins_Geo
+    3300004: Male_Endocrine_Adrenal_Gland_Geo_Left
+    3300006: Male_Endocrine_Adrenal_Gland_Geo_Right
+    3300008: Male_Endocrine_Pancreas_Geo
+    3300010: Male_Reproductive_Prostate_Geo
+    3300012: Male_Urinary_Bladder_Geo
+    3300014: Male_Urinary_Kidney_Geo_Left
+    3300016: Male_Urinary_Kidney_Geo_Right
+    3300018: Male_Urinary_Ureter_Geo_Left
+    3300020: Male_Urinary_Ureter_Geo_Right
+    4300000: Male_Circulatory_Urinary_Arteries_Geo
+    4300002: Male_Circulatory_Urinary_Veins_Geo
+    4300004: Male_Urinary_Kidney_Geo_Left
+    4300006: Male_Endocrine_Adrenal_Gland_Geo_Left
+    4300008: Male_Endocrine_Adrenal_Gland_Geo_Right
+    4300010: Male_Urinary_Kidney_Geo_Right
+    4300012: Male_Urinary_Ureter_Geo_Left
+    4300014: Male_Urinary_Ureter_Geo_Right
+    4300016: Male_Urinary_Bladder_Geo
+    4300018: Male_Endocrine_Pancreas_Geo
+    4300020: Male_Reproductive_Prostate_Geo
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

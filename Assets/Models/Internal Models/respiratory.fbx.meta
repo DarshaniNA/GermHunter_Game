@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 2709ff3b4011c534387f25e9eb115df6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Larynx
+    100002: Lungs
+    100004: Male_Respiratory_System_group
+    100006: //RootNode
+    100008: Respiratory_Cricothyroid_Ligament_Geo
+    100010: Respiratory_Muscles
+    100012: Respiratory_SystemRespiratory_System
+    100014: Respiratoy_Bronchi_Geo_Left
+    100016: Respiratoy_Bronchi_Geo_Right
+    100018: Respiratoy_Diaphragm_Geo
+    100020: Respiratoy_Epiglotis_Geo
+    100022: Respiratoy_Epiglotis_Inner_Geo
+    100024: Respiratoy_Lung_Geo_Left
+    100026: Respiratoy_Lung_Geo_Right
+    100028: Respiratoy_Thyroid_Cartliage_Geo
+    100030: Respiratoy_Thyroid_Membrane_Geo
+    100032: Respiratoy_Trachea_Geo
+    100034: Respiratoy_True_Vocal_Fold_Geo_Left
+    100036: Respiratoy_True_Vocal_Fold_Geo_Right
+    400000: Larynx
+    400002: Lungs
+    400004: Male_Respiratory_System_group
+    400006: //RootNode
+    400008: Respiratory_Cricothyroid_Ligament_Geo
+    400010: Respiratory_Muscles
+    400012: Respiratory_SystemRespiratory_System
+    400014: Respiratoy_Bronchi_Geo_Left
+    400016: Respiratoy_Bronchi_Geo_Right
+    400018: Respiratoy_Diaphragm_Geo
+    400020: Respiratoy_Epiglotis_Geo
+    400022: Respiratoy_Epiglotis_Inner_Geo
+    400024: Respiratoy_Lung_Geo_Left
+    400026: Respiratoy_Lung_Geo_Right
+    400028: Respiratoy_Thyroid_Cartliage_Geo
+    400030: Respiratoy_Thyroid_Membrane_Geo
+    400032: Respiratoy_Trachea_Geo
+    400034: Respiratoy_True_Vocal_Fold_Geo_Left
+    400036: Respiratoy_True_Vocal_Fold_Geo_Right
+    2100000: Muscles_Diaphragm_mat
+    2100002: Respiratoy_Lung_mat
+    2100004: Respiratoy_Bronchi_mat
+    2100006: Respiratory_Larynx_Cricothyroid_Ligament_mat
+    2100008: Respiratoy_Larynx_mat
+    2300000: Respiratory_Cricothyroid_Ligament_Geo
+    2300002: Respiratoy_Bronchi_Geo_Left
+    2300004: Respiratoy_Bronchi_Geo_Right
+    2300006: Respiratoy_Diaphragm_Geo
+    2300008: Respiratoy_Epiglotis_Geo
+    2300010: Respiratoy_Epiglotis_Inner_Geo
+    2300012: Respiratoy_Lung_Geo_Left
+    2300014: Respiratoy_Lung_Geo_Right
+    2300016: Respiratoy_Thyroid_Cartliage_Geo
+    2300018: Respiratoy_Thyroid_Membrane_Geo
+    2300020: Respiratoy_Trachea_Geo
+    2300022: Respiratoy_True_Vocal_Fold_Geo_Left
+    2300024: Respiratoy_True_Vocal_Fold_Geo_Right
+    3300000: Respiratory_Cricothyroid_Ligament_Geo
+    3300002: Respiratoy_Bronchi_Geo_Left
+    3300004: Respiratoy_Bronchi_Geo_Right
+    3300006: Respiratoy_Diaphragm_Geo
+    3300008: Respiratoy_Epiglotis_Geo
+    3300010: Respiratoy_Epiglotis_Inner_Geo
+    3300012: Respiratoy_Lung_Geo_Left
+    3300014: Respiratoy_Lung_Geo_Right
+    3300016: Respiratoy_Thyroid_Cartliage_Geo
+    3300018: Respiratoy_Thyroid_Membrane_Geo
+    3300020: Respiratoy_Trachea_Geo
+    3300022: Respiratoy_True_Vocal_Fold_Geo_Left
+    3300024: Respiratoy_True_Vocal_Fold_Geo_Right
+    4300000: Respiratoy_Diaphragm_Geo
+    4300002: Respiratoy_Lung_Geo_Right
+    4300004: Respiratoy_Lung_Geo_Left
+    4300006: Respiratoy_Bronchi_Geo_Right
+    4300008: Respiratoy_Bronchi_Geo_Left
+    4300010: Respiratoy_Trachea_Geo
+    4300012: Respiratory_Cricothyroid_Ligament_Geo
+    4300014: Respiratoy_Epiglotis_Geo
+    4300016: Respiratoy_Epiglotis_Inner_Geo
+    4300018: Respiratoy_Thyroid_Cartliage_Geo
+    4300020: Respiratoy_True_Vocal_Fold_Geo_Left
+    4300022: Respiratoy_True_Vocal_Fold_Geo_Right
+    4300024: Respiratoy_Thyroid_Membrane_Geo
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
